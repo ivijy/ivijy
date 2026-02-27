@@ -1,52 +1,46 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=VIJAY&fontSize=90&animation=fadeIn&fontAlignY=40&theme=dark" /></p>
-
+<!-- Premium Dark Header -->
 <p align="center">
-  <img src="https://github.com/ivijy.png" width="180" style="border-radius: 50%; border: 4px solid #1a1a1a;" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,100:1a1a1a&text=Vijay&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<!-- Circular Profile Image -->
 <p align="center">
-  <kbd><b>Full Stack Developer</b></kbd> | <kbd><b>BCA Student</b></kbd>
+  <img src="https://avatars.githubusercontent.com/ivijy" width="200" style="border-radius:50%;" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;BCA+Student;Building+Modern+Web+Apps;Focused+on+Growth+and+Consistency" />
+</p>
+
+---
+
+<!-- Big Red Instagram Button -->
 <p align="center">
   <a href="https://instagram.com/vijay92.0">
-    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Professional Brief
-
-Architecting digital experiences with a focus on clean code and modern aesthetics. Currently pursuing a *Bachelor of Computer Applications* while building scalable web applications and engaging digital content.
-
-- 🚀 *Focusing on*: Scalable Architecture & UI/UX Design
-- 🛠 *Current Stack*: C, Web Technologies, and Creative Content
-- 📍 *Based in*: Sitapur, Uttar Pradesh, India
-
----
-
-### 💻 Tech Arsenal
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,mongodb,git,github,vscode,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,html,css,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 Performance Metrics
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivijy&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="Vijay's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivijy&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f" alt="Top Languages" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivijy&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=9f9f9f" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivijy&show_icons=true&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivijy&theme=dark&hide_border=true" width="49%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:1a1a1a&section=footer"/>
 </p>
