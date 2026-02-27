@@ -1,27 +1,60 @@
-<!-- Profile Photo -->
+<!-- 🔥 Luxury Dark Header -->
 <p align="center">
-  <img src="https://github.com/ivijy.png" width="170" style="border-radius:50%; border:4px solid #00F7FF;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0f2027,100:1f1c2c&height=220&section=header&text=Vijay&fontSize=65&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Vijay</h1>
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://github.com/ivijy.png" width="220" style="border-radius:50%; border:6px solid #111; box-shadow: 0 0 35px #00f7ff;" />
+
+<br><br>
+
+<a href="https://instagram.com/vijay92.0">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+</td>
+
+<td width="65%">
+
+# 👑 Vijay  
+
+### 🚀 Full Stack Developer  
+### 🎓 BCA Student  
+### 💻 Building Real-World Projects  
+
+---
+
+### 💎 About Me  
+
+- 🔥 Passionate about Web & App Development  
+- 🧠 Learning Backend + DSA  
+- ⚡ Focused on consistency & growth  
+- 🎯 Dream: Become Top Software Engineer  
+
+---
+
+### 🛠 Tech Stack  
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,html,css,mysql,git,github,vscode" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Performance  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=BCA+Student;Future+Software+Engineer;Full+Stack+Developer;Building+Real+Projects+🚀" />
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/Vijay92.0">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ivijy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivijy&theme=tokyonight&hide_border=true&border_radius=20" width="48%" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-```diff
-+ 🎓 Pursuing BCA
-+ 💻 Passionate about Software & App Development
-+ 🚀 Currently building real-world projects
-+ 🌱 Learning Data Structures & Backend Development
-+ 🎯 Goal: Become a Top Software Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0f2027,100:1f1c2c&height=120&section=footer"/>
+</p>
